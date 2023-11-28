@@ -9,6 +9,10 @@
 .material-icons.md-36 { font-size: 36px; }
 .material-icons.md-48 { font-size: 48px; }
 
+body {
+  font-family: 'Nova Square', sans-serif;
+}
+
 .responsive {
     width: 100%;
     height: auto;
